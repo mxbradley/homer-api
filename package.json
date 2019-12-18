@@ -13,7 +13,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node src/server/app.js",
-    "test": "echo \\\"Error: no database specified\\\" && exit 1"
+    "test": "node tests/dbTableTest.js"
   },
   "author": "",
   "license": "ISC"
