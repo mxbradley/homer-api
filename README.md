@@ -11,6 +11,7 @@ LAB_PG_DB=homerlabmb
 LAB_PG_WRITER=homerlabadmin
 LAB_PG_PASS=tehadmin
 LAB_PG_PORT=5432
+NODEJS_PORT=3000
 ```
 
 Then start the server: `Term> npm start`
