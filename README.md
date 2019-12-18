@@ -36,3 +36,5 @@ mutation {
   }
 }
 ```
+
+At any time you can run test to see results change - In terminal `Term> npm test` or `node tests/dbTableTest.js`
